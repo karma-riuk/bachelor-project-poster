@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 460 340" style="enable-background:new 0 0 460 340;" width="460" height="340" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#1D1D1B;stroke-width:2;}
+	.st1{fill:none;stroke:#0000FF;stroke-width:2;}
+	.st2{fill:#00f;}
+	.st3{fill:none;stroke:#E30613;stroke-linecap:round;}
+	.st4{fill:#E30613;}
+	.st5{font-family:'Liberation Sans';}
+	.st6{font-size:20px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="223" y1="257.4491" x2="223" y2="87.8461">
+	<stop  offset="0" style="stop-color:#C0C0C0"/>
+	<stop  offset="1" style="stop-color:#757575"/>
+</linearGradient>
+<polygon class="st0" points="160,258.6 70.8,209 70.8,138.7 160,89 286,89 375.2,138.7 375.2,209 286,258.6 "/>
+<g>
+	<g>
+		<line class="st1" x1="223" y1="147.8" x2="223" y2="36.2"/>
+		<g>
+			<polygon class="st2" points="233,39.1 223,21.8 213,39.1 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st3" d="M214.5,46.7c-4,1.1-7.9,6.3,3.6,7.9c7.3,1,15.9,0.3,17.2-3.5c0.9-2.5-0.4-4.4-4.4-5.2"/>
+		<g>
+			<polygon class="st4" points="226.9,45.7 232.7,43.9 231.2,46.1 232.3,48.4 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 143 285)" class="st5 st6">P1</text>
+<text transform="matrix(1 0 0 1 275 285)" class="st5 st6">P2</text>
+<text transform="matrix(1 0 0 1 388 218)" class="st5 st6">P3</text>
+<text transform="matrix(1 0 0 1 388 140)" class="st5 st6">P4</text>
+<text transform="matrix(1 0 0 1 275 80)" class="st5 st6">P5</text>
+<text transform="matrix(1 0 0 1 150 80)" class="st5 st6">P6</text>
+<text transform="matrix(1 0 0 1 36 140)" class="st5 st6">P7</text>
+<text transform="matrix(1 0 0 1 36 218)" class="st5 st6">P8</text>
+</svg>
